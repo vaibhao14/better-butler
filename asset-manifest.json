@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/better-butler/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/better-butler/static/js/main.6d938a51.chunk.js",
+    "main.js.map": "/better-butler/static/js/main.6d938a51.chunk.js.map",
+    "runtime-main.js": "/better-butler/static/js/runtime-main.1ad5480b.js",
+    "runtime-main.js.map": "/better-butler/static/js/runtime-main.1ad5480b.js.map",
+    "static/js/2.b7581bb2.chunk.js": "/better-butler/static/js/2.b7581bb2.chunk.js",
+    "static/js/2.b7581bb2.chunk.js.map": "/better-butler/static/js/2.b7581bb2.chunk.js.map",
+    "static/js/3.1869d6b5.chunk.js": "/better-butler/static/js/3.1869d6b5.chunk.js",
+    "static/js/3.1869d6b5.chunk.js.map": "/better-butler/static/js/3.1869d6b5.chunk.js.map",
+    "index.html": "/better-butler/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/better-butler/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.b7581bb2.chunk.js.LICENSE.txt": "/better-butler/static/js/2.b7581bb2.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/better-butler/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1ad5480b.js",
+    "static/js/2.b7581bb2.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.6d938a51.chunk.js"
+  ]
+}
